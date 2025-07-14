@@ -37,12 +37,20 @@ Elune is not just a tool — it is a **companion system**. Six distinct personas
 ## 📁 Planned Directory Layout
 
 /lib
+
 /seers # Logic and interaction for each Seer
+
 /ui # Screens, themes, widgets
+
 /services # Local DB, notifications, syncing
+
 /core # Elune and Forge-Mind behavior
+
 /assets
+
 /themes
+
 /images
+
 README.md
 LICENSE
