@@ -61,7 +61,7 @@ Elune is made up of six emotionally intelligent personas:
 
 ## 🛣 Roadmap Overview
 
-[View Full Roadmap → Elune v3.5](#) _(link to file or doc)_
+(there will be a seperate file for the full roadmap)
 
 1. Foundation & Local Memory Logs  
 2. Time-Based Behavior Engine  
