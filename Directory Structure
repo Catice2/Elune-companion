@@ -1,0 +1,28 @@
+/lib
+  /seers
+    bright.dart
+    still.dart
+    shadow.dart
+    random.dart
+    forge.dart
+    elune.dart
+  /screens
+    home.dart
+    settings.dart
+    theme_manager.dart
+  /models
+    log_entry.dart
+    seer_memory.dart
+  /services
+    storage_service.dart
+    theme_service.dart
+/assets
+  /themes
+    default.json
+    ...
+README.md
+ROADMAP.md
+LICENSE
+
+
+This may change in the future
